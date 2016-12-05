@@ -4,7 +4,7 @@ title: About me
 subtitle: Matthew C Roberts
 ---
 
-### Short Industry Biography:
+### Short Biography:
 
 Matt Roberts is an Associate Professor in the Department of Agricultural, Environmental and Development Economics at The Ohio State University. Dr. Roberts is a nationally-renowned expert and speaker on the grain and energy markets. He has been quoted in the Wall Street Journal, the Chicago Tribune, Associated Press, and Forbes, and has been interviewed on CNBC. Roberts received a B.A. in Economics from William Jewell College in Liberty, Missouri, and a Ph.D. in Economics from North Carolina State University. Prior to graduate school Roberts worked as a commodity and energy derivatives broker in Vienna, Austria and as a market research consultant to the pharmaceutical industry in North Carolina. He is an active speaker, appearing approximately 50 times per year around the nation on grain, petroleum, and biofuels markets, and is also an active consultant to the commodity industry. He has been at The Ohio State University since 2001.
 
