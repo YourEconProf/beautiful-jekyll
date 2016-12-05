@@ -1,16 +1,19 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Matthew C Roberts
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+### Short Industry Biography:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Matt Roberts is an Associate Professor in the Department of Agricultural, Environmental and Development Economics at The Ohio State University. Dr. Roberts is a nationally-renowned expert and speaker on the grain and energy markets. He has been quoted in the Wall Street Journal, the Chicago Tribune, Associated Press, and Forbes, and has been interviewed on CNBC. Roberts received a B.A. in Economics from William Jewell College in Liberty, Missouri, and a Ph.D. in Economics from North Carolina State University. Prior to graduate school Roberts worked as a commodity and energy derivatives broker in Vienna, Austria and as a market research consultant to the pharmaceutical industry in North Carolina. He is an active speaker, appearing approximately 50 times per year around the nation on grain, petroleum, and biofuels markets, and is also an active consultant to the commodity industry. He has been at The Ohio State University since 2001.
 
-What else do you need?
+### Long Biography:
 
-### my history
+Matt Roberts is a native of Bolivar, Mo, where he began working in the family Chevrolet dealership at age five. Roberts received a BA in Economics in 1994 from William Jewell College in Liberty, Mo. From 1994 through 1996, Roberts was a commodity and energy derivatives broker for CA Global Futures AG in Vienna, Austria, with clients throughout Central and Eastern Europe. Roberts specialized in the copper and European petroleum markets.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Dr. Roberts received a Ph.D. in Economics from North Carolina State University in 2001. During graduate school, Dr. Roberts was a market research consultant to the pharmaceutical industry. Dr. Roberts is an Associate Professor in the Department of Agricultural, Environmental and Development Economics and an Extension Grain Marketing Specialist at The Ohio State University, where he has been employed since 2001.
+
+Dr. Roberts’ research interests relate to his experience in the commodity markets. Dr. Roberts has published on technical analysis and the use of derivatives for risk management in agricultural production. His extension and outreach activities focus on biofuels markets and the grain market situation and outlook. He has given testimony before the Ohio House Alternative Energy Committee, and assisted state and federal lawmakers on agricultural and energy issues. Dr. Roberts has been quoted in the Wall Street Journal, the Chicago Tribune, Associated Press, and Forbes, and has been interviewed on CNBC. Dr. Roberts is an active consultant to the commodity industry and nationally-renowned speaker, speaking approximately 50 times per year around the nation on grain, petroleum, and biofuels markets and policy.
+
+Dr. Roberts lives in Worthington, OH with his wife and four children. They enjoy traveling, hiking, biking and rock-climbing as a family. Dr. Roberts has been an amateur bicycle racer for 19 years, and is a co-owner of Vertical Adventures, a chain of indoor rock climbing gyms in Central Ohio.
