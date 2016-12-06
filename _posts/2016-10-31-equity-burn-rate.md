@@ -4,7 +4,6 @@ title: The Equity Burn Rate
 tags: [farm finance, grain marketing]
 ---
 
-Piracy is typically an act of robbery or criminal violence at sea. The term can include acts committed on land, in the air, or in other major bodies of water or on a shore. It does not normally include crimes committed against persons traveling on the same vessel as the perpetrator (e.g. one passenger stealing from others on the same vessel). The term has been used throughout history to refer to raids across land borders by non-state agents.
 
 Last time, we talked about the working capital burn rate (WCBR)–a measure of how many years of losses a producer can sustain before they exhaust their working capital and have to either refinance their land to withdraw equity, or take some other drastic action. This time, I want to discuss the land equity burn rate (LEBR). The LEBR measures how long a producer can continue to take those drastic actions before all of the value of the farm is gone.
 
