@@ -12,7 +12,7 @@ The LEBR is calculated by dividing the amount of equity the farm has in its land
 Going back to the same groups that we used last time from FINBIN, we calculated the LEBR for the three least profitable quintiles.
 
 |         | Bottom 20%  |  Bottom 20%-40%     |  40%-60% |
-| ------- | ----------- | ------------------- | -------- |
+| ------- | -----------: | -------------------: | --------: |
 | Market Value of Land & Buildings | 1,975,889 | 1,392,924 | 1,505,307 |
 | Long Term Farm Liabilities | 628,614 | 371,647 | 291,959 |
 | Equity in Long Term Assets | 1,347,275 | 1,021,277 | 1,213,348 |
