@@ -4,6 +4,10 @@ title: About me
 subtitle: Matthew C Roberts
 ---
 
+### What is a 'Kernmantle'?
+
+Historically, climbers and mountaineers protected themselves using ropes woven from hemp or other natural fibers. While those ropes were strong, they were very rigid. A relatively short fall could result in a broken back. Kernmantle ropes have a fundamentally different design that is just as strong but also highly dynamic, to absorb those impacts and spring back. Because climbers could survive longer falls, they were free to take larger risks. 
+
 ### Short Biography:
 
 Matt Roberts is founder of The Kernmantle Group, an economics research and training consultancy. Dr. Roberts is a nationally-renowned expert and speaker on the grain and energy markets. He has been quoted in the Wall Street Journal, the Chicago Tribune, Associated Press, and Forbes, and has been interviewed on CNBC. Roberts received a B.A. in Economics from William Jewell College in Liberty, Missouri, and a Ph.D. in Economics from North Carolina State University. Prior to graduate school Roberts worked as a commodity and energy derivatives broker in Vienna, Austria and as a market research consultant to the pharmaceutical industry in North Carolina. From 2001 through 2016, Roberts was and Assistant and Associate Professor in the Department of Agricultural Economics at The Ohio State University. He is an active speaker, appearing approximately 50 times per year around the nation on grain, petroleum, and biofuels markets, and is also an active consultant to the commodity industry.
