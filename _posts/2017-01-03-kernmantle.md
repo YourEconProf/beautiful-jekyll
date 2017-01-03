@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What's in a Name: Kernmantle
+title: What's in a Name? 
 tags: [personal, career]
 ---
 
