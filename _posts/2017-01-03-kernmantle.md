@@ -4,7 +4,7 @@ title: Kernmantle?
 tags: [personal, career]
 ---
 
-![A Kernmantle Rope]{"/img/dynamic-rope-structure.jpg"}
+![A Kernmantle Rope]("{{ site.github.url }}/img/dynamic-rope-structure.jpg")
 
 Historically, climbers and mountaineers protected themselves using ropes woven from hemp or other natural fibers. While those ropes were strong, they were very rigid. A relatively short fall could result in a broken back. Kernmantle ropes have a fundamentally different design that is just as strong but also highly dynamic, to absorb those impacts and spring back. Because climbers could survive longer falls, they were free to take larger risks. 
 
