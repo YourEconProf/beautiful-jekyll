@@ -1,14 +1,21 @@
 ---
 layout: post
-title: What's in a Name? 
+title: Trade, Trump, and Soy 
 tags: [personal, career]
 ---
 
-Historically, climbers and mountaineers protected themselves using ropes woven from hemp or other natural fibers. While those ropes were strong, they were very rigid. A relatively short fall could result in a broken back. Kernmantle ropes have a fundamentally different design that is just as strong but also highly dynamic, to absorb those impacts and spring back. Because climbers could survive longer falls, they were free to take larger risks.
+Trade was one of the hottest topics in the 2016 campaigns, both primaries and in the general election. Unlike nearly every previous post-war president, President-Elect Trump appears poised to continue his campaign rhetoric on trade once in office. Row-crop agriculture is unusual in that it is both typically a small family business and is highly export dependent. Were a trade war to break out between the US and China, recent experience indicates that agriculture, and particularly soybeans, would be an early casualty.
+
+In 2002, President Bush placed an import tariff on steel coming in to the US to protect US producers under section 201 of the 1974 Trade Act. Section 201 was created so that the US government could grant temporary protection to industries who were being gravely harmed by trade, in order for them to adjust and adapt. The EU was the first to file a suit at the WTO against the US tariffs. In November of 2003, the WTO ruled for the EU, and allowed the EU to impose tariffs up to a total of $2 billion. The EU published a list of targeted products, and they were very specific, meant to harm Bush  in swing states in the 2004 elections. 
+
+Looking at 2017, it is clear that agricultural exports to China play a large, and symbolic, role in our trade. But we are not the only exporter to China. Below is a diagram of the trade flows of soybeans from the major exporting countries to all of the major importing countries. 
+
+# 2016 Global Trade in Soybeans, Exporters on left, Importers on right. (mmt)
+
 
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
        
-       <div id="sankey_basic" style="width: 900px; height: 300px;"></div>
+       <div id="sankey_basic" style="width: 900px; height: 400px;"></div>
 
 <script type="text/javascript">
       google.charts.load('current', {'packages':['sankey']});
@@ -61,4 +68,4 @@ Historically, climbers and mountaineers protected themselves using ropes woven f
       }
 </script>
 
-Like ropes, risk management plans are most valuable when they are strong but flexible. The flexibility permits big risks to be taken while the strength assures that failed bets won't sink the enterprise.  
+The diagram shows a few things, first, that China imports a *lot* of soy. Second, that China couldn't impose an embargo without seriously damaging domestic supplies of beans. (Not that I think that they would want to). Third, that Chinese 
