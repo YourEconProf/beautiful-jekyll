@@ -11,7 +11,11 @@ Historically, climbers and mountaineers protected themselves using ropes woven f
        <div id="sankey_basic" style="width: 900px; height: 300px;"></div>
 
 <script type="text/javascript">
-     var data = new google.visualization.DataTable();
+      google.charts.load('current', {'packages':['sankey']});
+      google.charts.setOnLoadCallback(drawChart);
+
+      function drawChart() {
+        var data = new google.visualization.DataTable();
         data.addColumn('string', 'From');
         data.addColumn('string', 'To');
         data.addColumn('number', 'Weight');
@@ -44,7 +48,7 @@ Historically, climbers and mountaineers protected themselves using ropes woven f
           [ 'Brazil', 'Vietnam', .452 ],
           [ 'Argentina', 'China', 8.7  ],
           [ 'Argentina', 'Spain', .63  ],
-        ]);
+       ]);
 
         // Sets chart options.
         var options = {
@@ -54,7 +58,7 @@ Historically, climbers and mountaineers protected themselves using ropes woven f
         // Instantiates and draws our chart, passing in some options.
         var chart = new google.visualization.Sankey(document.getElementById('sankey_basic'));
         chart.draw(data, options);
-
+      }
 </script>
 
 Like ropes, risk management plans are most valuable when they are strong but flexible. The flexibility permits big risks to be taken while the strength assures that failed bets won't sink the enterprise.  
