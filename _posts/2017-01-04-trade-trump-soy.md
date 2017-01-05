@@ -60,7 +60,7 @@ Looking at 2017, it is clear that agricultural exports to China play a large, an
 
         // Sets chart options.
         var options = {
-          width: 600,
+          width: 700,
         };
 
         // Instantiates and draws our chart, passing in some options.
@@ -76,7 +76,7 @@ In addition to its 40.2mmt of exports to China, Brazil crushes 43.4mmt domestica
 ### 2015 Global Trade in Soybeans, with domestic crushings added. (mmt)
 
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-<div id="sankey_basic" style="width: 900px; height: 400px;"></div>
+<div id="sankey_basic2" style="width: 900px; height: 400px;"></div>
 
 <script type="text/javascript">
       google.charts.load('current', {'packages':['sankey']});
@@ -127,7 +127,7 @@ In addition to its 40.2mmt of exports to China, Brazil crushes 43.4mmt domestica
         };
 
         // Instantiates and draws our chart, passing in some options.
-        var chart = new google.visualization.Sankey(document.getElementById('sankey_basic'));
+        var chart = new google.visualization.Sankey(document.getElementById('sankey_basic2'));
         chart.draw(data, options);
       }
 </script>
