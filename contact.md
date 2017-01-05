@@ -11,13 +11,12 @@ subtitle: Matthew C Roberts
     NOTE: This is an optional field, if your form has a field named '_redirect',
     The user will be redirected to this page after the submission is saved
   -->
-  <input type="hidden" value="https://mysite.com/redirect_thank_you" name="_redirect" />
+  <input type="hidden" value="http://www.kernmantlegroup.com" name="_redirect" />
 
   <label for="name">Name</label>
   <input type="text" id="name" name="name"> <br />
-
-  <label for="email">Email</label>
-  <input type="text" id="email" name="email"> <br />
+  
+  <textarea name="textarea" style="width:250px;height:150px;"></textarea>
 
   <button type="submit">Submit</button>
 </form>
