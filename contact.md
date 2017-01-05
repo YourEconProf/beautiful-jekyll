@@ -15,8 +15,12 @@ subtitle: Matthew C Roberts
 
   <label for="name">Name</label>
   <input type="text" id="name" name="name"> <br />
+
+  <label for="email">Email</label>
+  <input type="text" id="email" name="email"> <br />
   
-  <textarea name="textarea" style="width:250px;height:150px;"></textarea>
+ <label for="textarea">Message</label>
+   <textarea name="textarea" id="textarea" style="width:250px;height:150px;"></textarea>
 
   <button type="submit">Submit</button>
 </form>
