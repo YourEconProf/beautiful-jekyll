@@ -1,13 +1,25 @@
 ---
 layout: page
-title: Research
+title: Contact
 subtitle: Matthew C Roberts
 ---
 
-### Kernmantle Research:
+<form action="https://liveformhq.com/form/90fa4d30-2b94-4bc1-ba14-dee5d4dffc77" method="POST" accept-charset="utf-8">
+  <input type="hidden" name="_utf8" value="✓">
 
-This is where I'll put info about my current research. Right now, I am focusing moving all of my accumulated data and calculations over to R, and automating the creation of my graphs. Soon, I'll begin linking those here.
+  <!--
+    NOTE: This is an optional field, if your form has a field named '_redirect',
+    The user will be redirected to this page after the submission is saved
+  -->
+  <input type="hidden" value="https://mysite.com/redirect_thank_you" name="_redirect" />
 
-### Old Projects:
+  <label for="name">Name</label>
+  <input type="text" id="name" name="name"> <br />
 
-This is where I will house links to the FMEX project and GARCHKIT, two (very) old resources that still get some attention from time to time.
+  <label for="email">Email</label>
+  <input type="text" id="email" name="email"> <br />
+
+  <button type="submit">Submit</button>
+</form>
+
+
