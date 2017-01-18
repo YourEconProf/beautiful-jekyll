@@ -9,3 +9,4 @@ subtitle: Matthew C Roberts
 These are the slidesets I've recently used. If you would like to utilize these, please contact me.
 
 [2017 January 12, Independent Professional Seed Association, San Diego, CA.](../img/slides/20170112-www.pdf)
+[2017 January 18, 2017 Ag Expo Convention & Trade Show, Sioux Falls, SD.](../img/slides/20170118-www.pdf)
