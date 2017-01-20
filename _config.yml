@@ -40,7 +40,7 @@ avatar: "/img/KG_mark-only_RGB.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Matthew C. Roberts
+  name: 
   email: "matt@kernmantlegroup.com"
 #  facebook: yourname  # eg. daattali
   github: youreconprof    # eg. daattali
