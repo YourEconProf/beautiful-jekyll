@@ -4,8 +4,6 @@ title: Gallery
 subtitle: Matthew C Roberts
 ---
 
-### Kernmantle Plot Library:
-
 These plots are all copyright Kernmantle Group, LLC. However, they are available for unlimited use and reuse, as long as the embedded watermark is left intact. If you would like customized plots for your organization, please contact me.
 
 
