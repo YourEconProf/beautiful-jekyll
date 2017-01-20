@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: Gallery
 subtitle: Matthew C Roberts
 ---
 
