@@ -1,12 +1,13 @@
 ---
 layout: page
-title: Research
+title: Presentation Slides
 subtitle: Matthew C Roberts
 ---
 
-### Kernmantle Plot Library:
 
-These are the slidesets I've recently used. If you would like to utilize these, please contact me.
+These are the slidesets I've recently used. If you would like to use these in a presentation,
+please contact me. Also note that (nearly) all of the graphs that I create are available
+in the [Graphs gallery](../graphs/index.html).
 
 | Date | Name |
 | ---- | ---- |
