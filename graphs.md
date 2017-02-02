@@ -20,6 +20,8 @@ These plots are all copyright Kernmantle Group, LLC. However, they are available
 | Production, bushels, 1975-present                   | corn-us-production   | [43](../img/plots/corn-us-production-43.png) | [169](../img/plots/corn-us-production-169.png) |
 | Ending Stocks, bushels, 1975-present                | corn-us-stocks       | [43](../img/plots/corn-us-stocks-43.png) | [169](../img/plots/corn-us-stocks-169.png) |
 | Stocks/Use, bushels, 1975-present                   | corn-us-stocksuse    | [43](../img/plots/corn-us-stocksuse-43.png) | [169](../img/plots/corn-us-stocksuse-169.png) |
+| Weekly Export Commitments                           | corn-weekly-export-commits    | [43](../img/plots/corn-weekly-export-commits-43.png) | [169](../img/plots/corn-weekly-export-commits-169.png) |
+
 
 ## World Corn
 
@@ -47,6 +49,7 @@ These plots are all copyright Kernmantle Group, LLC. However, they are available
 | Production, bushels, 1975-present                   | soybean-us-production   | [43](../img/plots/soybean-us-production-43.png) | [169](../img/plots/soybean-us-production-169.png) |
 | Ending Stocks, bushels, 1975-present                | soybean-us-stocks       | [43](../img/plots/soybean-us-stocks-43.png) | [169](../img/plots/soybean-us-stocks-169.png) |
 | Stocks/Use, bushels, 1975-present                   | soybean-us-stocksuse    | [43](../img/plots/soybean-us-stocksuse-43.png) | [169](../img/plots/soybean-us-stocksuse-169.png) |
+| Weekly Export Commitments                           | soybean-weekly-export-commits    | [43](../img/plots/soybean-weekly-export-commits-43.png) | [169](../img/plots/soybean-weekly-export-commits-169.png) |
 
 
 ## World Soybeans 
