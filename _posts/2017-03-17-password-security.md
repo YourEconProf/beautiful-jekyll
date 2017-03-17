@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Things Farmers Don't Talk About: Passwords
+title: Things Farmers Don't Talk About Passwords
 tags: [personal, computing]
 ---
 
