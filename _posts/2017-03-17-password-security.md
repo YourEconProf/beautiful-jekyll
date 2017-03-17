@@ -4,11 +4,12 @@ title: Things Farmers Don't Talk About: Passwords
 tags: [personal, computing]
 ---
 
+I make about 40 stops on the meat & potato circuit each winter talking to farmers and others in the grains industry about markets, the economy, risk management, and farm management. The conversations are never predictable. Many times they stay close to the farming, and other times they stray far and wide. And every now and again, I think I have something concrete to offer on a topic that's not  related to economics. Today is the result of some of those conversations, and that topic is password security.
+
 <iframe src="https://player.vimeo.com/video/208856909" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen > </iframe>
 <p><a href="https://vimeo.com/208856909">Password Managers</a> from <a href="https://vimeo.com/youreconprof">Matt Roberts</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 
-I make about 40 stops on the meat & potato circuit each winter talking to farmers and others in the grains industry about markets, the economy, risk management, and farm management. The conversations are never predictable. Many times they stay close to the farming, and other times they stray far and wide. And every now and again, I think I have something concrete to offer on a topic that's not  related to economics. Today is the result of some of those conversations, and that topic is password security.
 
 Password security is sort of like flossing, we know its important, and we know that ignoring it will make *bad things* happen. At the same time, there is almost always something more pressing, and so they often get pushed aside. But when that day comes that you are sitting in the periodontist's chair, you will wish that you had paid more attention. 
 
