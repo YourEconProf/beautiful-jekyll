@@ -11,6 +11,10 @@ in the [Graphs gallery](../graphs/index.html).
 
 | Date | Name |
 | ---- | ---- |
+| 17 August 2017 | [Ohio Bankers' League, Columbus, OH](../img/slides/20170817OBL.pdf) |
+| 10 August 2017 | [Mid-South Agricultural Outlook, Martin, TN](../img/slides/20170810UTM.pdf) |
+| 28 June 2017 | [Wyffels Hybrids, Spencer, IA](../img/slides/20170628Wyffels.pdf) |
+| 17 May 2017 | [Climbing Wall Summit, Loveland, CO](../img/slides/CWS2017Outlook.pdf) |
 | 9 March 2017 | [Kalmbach Feeds Dealer Conference, Columbus, OH](../img/slides/20170309-www.pdf) |
 | 26 February 2017 | [AgStar Annie's Project, Bloomington, MN](../img/slides/agstar-annie-2017.pdf) |
 | 21 February 2017 | [First Bank & Trust, Marion, IN](../img/slides/20170221-www.pdf) |
