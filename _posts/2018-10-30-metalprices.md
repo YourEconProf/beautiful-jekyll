@@ -21,6 +21,8 @@ But again, this is a feature, not a bug, nor is it gouging, or even simple suppl
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">First, apologies for being snarky earlier, and thanks for calling me on it. Let me explain why, honestly, you shouldn&#39;t hold this against the US companies...they are doing *exactly* what they *should* be doing. 1/n</p>&mdash; Matt Roberts (@YourEconProf) <a href="https://twitter.com/YourEconProf/status/1022127933727617024?ref_src=twsrc%5Etfw">July 25, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
+Why is this exactly what companies should be doing? It's pretty straightforward:
+
 * So, imagine that company A is losing money because they can't compete with foreign company B. The government steps in and places a tariff on imports from company B's country.
 * This raises the cost of buying from B, so people shift to ordering from A, and their quantity sold, and produced, goes up. But this doesn't automatically mean that A is profitable.
 * If the problem with A is that its cost of production is higher than B, pre-tariff, then higher volume at the same price means bigger losses, not smaller losses. Therefore, to increase profits enough that A can expand, and hire more workers, A has to raise prices.
