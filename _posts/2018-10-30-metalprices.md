@@ -26,7 +26,7 @@ Why is this exactly what companies should be doing? It's pretty straightforward:
 * So, imagine that company A is losing money because they can't compete with foreign company B. The government steps in and places a tariff on imports from company B's country.
 * This raises the cost of buying from B, so people shift to ordering from A, and their quantity sold, and produced, goes up. But this doesn't automatically mean that A is profitable.
 * If the problem with A is that its cost of production is higher than B, pre-tariff, then higher volume at the same price means bigger losses, not smaller losses. Therefore, to increase profits enough that A can expand, and hire more workers, A has to raise prices.
-* That is why economists consider a tariff a tax...it is always a tax on consumers and producers. Depending on the particularities of the market, it may fall more on consumers or more on producers, in every case, they both share the burden. 5/n
+* That is why economists consider a tariff a tax...it is always a tax on consumers and producers. Depending on the particularities of the market, it may fall more on consumers or more on producers, in every case, they both share the burden. 
 * This is also why economists are in universal agreement that tariffs don't help the job market. Because while A might now be making more money and expanding, all the consumers and/or firms who buy A's product have to buy less of other things to afford the higher prices.
 * The most commonly cited example are the steel tariffs imposed under Bush43 in 2002, in which its well-accepted that for every job that was saved/created in steel-production, 4-5 were lost in steel-using industries, such as cars, appliances, etc. 
 
