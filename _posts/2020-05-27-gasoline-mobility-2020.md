@@ -15,6 +15,21 @@ Plotting the two series against one another indicated a strong relationship:
 
 Fitting a model to the two series (I'm just exploring here, so don't anyone get wound up about the lack of sophistication of this model) indicates a very strong relationship--changes in the mobility index explain 84.2% of the changes in gasoline supplied on a weekly basis, and each one point change in the Mobility Index results in a 0.8% change in gasoline usage; and these results are very highly statistically significant. What is the practical implication? As Apple is releasing its data each day, whereas the EIA data is released only weekly, with a five day lag (each Wednesday's release is for the week ended the previous Friday). Using this quite simple model, it would permit an analyst to create potentially more accurate forecasts of gasoline consumption, ahead of the EIA release each week.
 
+Regression Results for the model `ln(gasoline) = b_0 + b_1 * driving + e`
+```
+> moderndive::get_regression_table(gas_drive)
+# A tibble: 2 x 7
+  term      estimate std_error statistic p_value lower_ci upper_ci
+  <chr>        <dbl>     <dbl>     <dbl>   <dbl>    <dbl>    <dbl>
+1 intercept    2.10      0.024     88.9        0    2.06      2.15
+2 driving      0.008     0.001      9.24       0    0.006     0.01
+> moderndive::get_regression_summaries(gas_drive)
+# A tibble: 1 x 8
+  r_squared adj_r_squared     mse   rmse sigma statistic p_value    df
+      <dbl>         <dbl>   <dbl>  <dbl> <dbl>     <dbl>   <dbl> <dbl>
+1     0.842         0.832 0.00767 0.0876 0.093      85.4       0     2
+```
+
 Code:
 ```
 # I'm going to do some plotting and analysis of 
@@ -23,6 +38,7 @@ Code:
 library(tidyverse)
 library(eia)
 library(lubridate)
+
 
 # Apple Mobility Data, Downloaded from here:
 # https://github.com/ActiveConclusion/COVID19_mobility
@@ -48,33 +64,13 @@ mobility_gas <- gas_supplied %>%
   left_join(us_mobility,by="week") %>%
   mutate(lngas = log(gas))
 
-ggplot(mobility_gas) + 
-  geom_line(aes(x=date,y=gas), size=2) + 
-  geom_line(aes(x=date,y=driving),color="red",size=2) + 
-  labs(y="Mobility Index, Million Bbbls/Day",
-       x="2020") +
-  geom_text(aes(label="Gasoline Usage (Million bbls/day)", x=ymd("2020-01-01"), y=-20), color="black", size=7, hjust=0) +
-  geom_text(aes(label="Apple Mobility Index", x=ymd("2020-01-01"), y=-30), color="red", size=7, hjust=0) +
-  theme_light()
+p1 <- mobility_gas %>% ggplot(aes(x=date,y=gas)) + geom_line() + theme_minimal() + labs(y="Motor Gasoline Supplied, million bbls/day")
+p2 <- mobility_gas %>% ggplot(aes(x=date,y=driving)) + geom_line() + theme_minimal() + labs(y="Driving Directions Requests, 2020-01-13=0")
 
-ggplot(gas_supplied, aes(x=date,y=gas)) + geom_line() + theme_minimal() + labs(y="Million Barrels/Day Supplied")
+gridExtra::grid.arrange(p1,p2,ncol=2)
 
 gas_drive <- lm(lngas ~ driving, data=mobility_gas)
 moderndive::get_regression_table(gas_drive)
 moderndive::get_regression_summaries(gas_drive)
 ```
 
-Regression Results for the model `ln(gasoline) = b_0 + b_1 * driving + e`
-```
-> moderndive::get_regression_table(gas_drive)
-# A tibble: 2 x 7
-  term      estimate std_error statistic p_value lower_ci upper_ci
-  <chr>        <dbl>     <dbl>     <dbl>   <dbl>    <dbl>    <dbl>
-1 intercept    2.10      0.024     88.9        0    2.06      2.15
-2 driving      0.008     0.001      9.24       0    0.006     0.01
-> moderndive::get_regression_summaries(gas_drive)
-# A tibble: 1 x 8
-  r_squared adj_r_squared     mse   rmse sigma statistic p_value    df
-      <dbl>         <dbl>   <dbl>  <dbl> <dbl>     <dbl>   <dbl> <dbl>
-1     0.842         0.832 0.00767 0.0876 0.093      85.4       0     2
-```
