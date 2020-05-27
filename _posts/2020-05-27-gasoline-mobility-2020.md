@@ -64,8 +64,8 @@ moderndive::get_regression_table(gas_drive)
 moderndive::get_regression_summaries(gas_drive)
 ```
 
-Regression Results for the model `ln(gasoline) = b_0 + b_1 * driving + e`
-`
+Regression Results for the model `ln(gasoline) = b_0 + b_1 * driving + e
+```
 > moderndive::get_regression_table(gas_drive)
 # A tibble: 2 x 7
   term      estimate std_error statistic p_value lower_ci upper_ci
@@ -77,4 +77,4 @@ Regression Results for the model `ln(gasoline) = b_0 + b_1 * driving + e`
   r_squared adj_r_squared     mse   rmse sigma statistic p_value    df
       <dbl>         <dbl>   <dbl>  <dbl> <dbl>     <dbl>   <dbl> <dbl>
 1     0.842         0.832 0.00767 0.0876 0.093      85.4       0     2
-`
+```
