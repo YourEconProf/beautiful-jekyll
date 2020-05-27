@@ -64,7 +64,7 @@ moderndive::get_regression_table(gas_drive)
 moderndive::get_regression_summaries(gas_drive)
 ```
 
-Regression Results for the model `ln(gasoline) = b_0 + b_1 * driving + e
+Regression Results for the model `ln(gasoline) = b_0 + b_1 * driving + e`
 ```
 > moderndive::get_regression_table(gas_drive)
 # A tibble: 2 x 7
