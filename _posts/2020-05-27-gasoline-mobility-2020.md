@@ -16,7 +16,7 @@ Plotting the two series against one another indicated a strong relationship:
 Fitting a model to the two series (I'm just exploring here, so don't anyone get wound up about the lack of sophistication of this model) indicates a very strong relationship--changes in the mobility index explain 84.2% of the changes in gasoline supplied on a weekly basis, and each one point change in the Mobility Index results in a 0.8% change in gasoline usage; and these results are very highly statistically significant. What is the practical implication? As Apple is releasing its data each day, whereas the EIA data is released only weekly, with a five day lag (each Wednesday's release is for the week ended the previous Friday). Using this quite simple model, it would permit an analyst to create potentially more accurate forecasts of gasoline consumption, ahead of the EIA release each week.
 
 Code:
-``
+```
 # I'm going to do some plotting and analysis of 
 # Google & Apple Mobility data vs. EIA gasoline usage
 
@@ -62,7 +62,7 @@ ggplot(gas_supplied, aes(x=date,y=gas)) + geom_line() + theme_minimal() + labs(y
 gas_drive <- lm(lngas ~ driving, data=mobility_gas)
 moderndive::get_regression_table(gas_drive)
 moderndive::get_regression_summaries(gas_drive)
-``
+```
 
 Regression Results for the model `ln(gasoline) = b_0 + b_1 * driving + e`
 `
